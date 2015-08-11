@@ -8,7 +8,7 @@ The depth data can optionally have a bilateral filter applied to it, and a rotat
 
 ## Install and set-up ##
 
-    git clone https://bponsler/kinectToPly
+    git clone https://github.com/bponsler/kinectToPly.git
     cd kinectToPly
     ./kinectToPly.py
 
